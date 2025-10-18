@@ -1,0 +1,24 @@
+Title : Reversi Reimagined - Heuristic Powered Algorithmic Play
+
+
+Description:
+
+Design and implementation of an intelligent Othello engine using C++.
+
+Timestamps - 
+
+00:00 Introduction
+00:21 Rules of the game
+2:45 Project Overview + Demo
+14:07 Goals + Learning Objectives 
+17:40 Decision Trees + Theory of AI algos
+32:10 Minmax Algorithm Explained(Pseudocode + Logic)
+49:45 Alpha Beta Pruning Explained(Pseudocode + Logic)
+1:10:52 Project Architecture 
+1:13:21 Initial code + Player class
+1:18:20 Board Class
+2:20:50 Implementation of Heuristic, Minimax and alpha beta pruning in code
+2:42:20 Game class + main function 
+3:37:51 Acknowledgements
+
+
